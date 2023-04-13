@@ -9,7 +9,7 @@ import axios from 'axios'
 global.owner = [
   ['917605902011', 'GURU', true],
   ['6281255369012', 'Ash', true], 
-  [''] 
+  ['+234809040301069','Licha',true] 
 ] //Number of owners
 
 global.mods = ['917605902011','32460248586'] 
@@ -57,7 +57,7 @@ global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1'
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
-global.dbase = 'mongodb+srv://<username>:<password>@cluster0.8o3d1xf.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
+global.dbase = 'mongodb+srv://noble:kingjnr4@cluster0.8o3d1xf.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
